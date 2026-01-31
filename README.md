@@ -33,6 +33,8 @@ I enjoy turning ideas into practical, real-world solutions using modern AI tools
 
 ### Web & Backend
 - PHP
+- C#
+- Java
 - HTML, CSS, Bootstrap
 - REST APIs
 
